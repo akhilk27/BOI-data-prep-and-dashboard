@@ -1,5 +1,7 @@
 # BOI-data-prep-and-dashboard
 
+Dashboard link: https://public.tableau.com/app/profile/akhilesh.reddy4076/viz/BO_Dashboard/BOOverview
+
 In this project, I implemented a web scraping solution using Python's BeautifulSoup and Requests libraries to collect detailed information about movies from Box Office India. I extracted various attributes for each movie, including release date, runtime, genre, verdict, budget, and box office collections across different territories. The scraped data was then organized into a structured format and stored in an CSV file, allowing for easy analysis and visualization.
 
 Then, I developed a comprehensive data processing and analysis pipeline using PySpark to manage and analyze movie data. The pipeline ingested the raw movie dataset, performed data cleansing and transformation to ensure accuracy and consistency, and integrated various metrics such as actor performance, box office earnings, and genre success. 
